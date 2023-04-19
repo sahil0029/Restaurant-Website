@@ -8,7 +8,7 @@ The restaurant webpage designed using HTML, CSS, and JavaScript is a visually ap
 
 # Link
 
-[Click here](https://tinyurl.com/freshMeal) To see live demo.
+[Click here](https://sahil0029.github.io/Restaurant-Website/) To see live demo.
 # Languages Used 
 
     1. HTML5
